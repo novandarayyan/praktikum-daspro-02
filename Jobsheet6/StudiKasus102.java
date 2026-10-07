@@ -4,7 +4,12 @@ public class StudiKasus102 {
         int hargaMinimalDiskon = 100000;
         int hargaPerCup = 17000;
         int totalBayar = 0;
-        int jumlahCup, uangBayar, totalHarga, diskon, kembalian, kurang;
+        int jumlahCup;
+        int uangBayar;
+        int totalHarga; 
+        int diskon;
+        int kembalian;
+        int kurang;
 
         Scanner sc = new Scanner(System.in);
 
