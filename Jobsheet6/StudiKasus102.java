@@ -1,14 +1,10 @@
 import java.util.Scanner;
 public class StudiKasus102 {
     public static void main(String[] args) {
-        int hargaMinimalDiskon, nomorAbsenNovan = 2;
-        hargaMinimalDiskon = 80000 + ((nomorAbsenNovan % 5) * 10000);
-        int hargaPerCup = 15000 + ((hargaMinimalDiskon % 6)* 1000);
-
-        System.out.print("Parameter unik saya absen 2: " hargaMinimalDiskon);
-        System.out.printIn(hargaPerCup);
-
-        int jumlahCup, uangBayar, totalHarga, diskon, totalBayar, kembalian, kurang;
+        int hargaMinimalDiskon = 100000;
+        int hargaPerCup = 17000;
+        int totalBayar = 0;
+        int jumlahCup, uangBayar, totalHarga, diskon, kembalian, kurang;
 
         Scanner sc = new Scanner(System.in);
 
@@ -20,6 +16,22 @@ public class StudiKasus102 {
         totalHarga = hargaPerCup * jumlahCup;
         diskon = 0;
 
+        if (totalHarga >= hargaMinimalDiskon) {
+            diskon = totalHarga * 10 / 100;}
+        
+        totalBayar = totalHarga - diskon;
+
+        System.out.println("Total harga: " + totalHarga);
+        System.out.println("Diskon: " + diskon);
+        System.out.println("Total bayar: " + totalBayar);
+
+        if (uangBayar >= totalBayar) {
+            kembalian = uangBayar - totalBayar;
+            System.out.println("Kembalian: " + kembalian);
+        } else {
+            kurang = totalBayar - uangBayar;
+            System.out.println("Uang kurang: " + kurang);
+        }
 
     }
 }
