@@ -3,7 +3,7 @@ public class StudiKasus102 {
     public static void main(String[] args) {
         int hargaMinimalDiskon = 100000;
         int hargaPerCup = 17000;
-        int totalBayar;
+        int totalBayar = 0;
         int jumlahCup;
         int uangBayar;
         int totalHarga; 
@@ -38,5 +38,6 @@ public class StudiKasus102 {
             System.out.println("Uang kurang: " + kurang);
         }
 
+        sc.close();
     }
 }
