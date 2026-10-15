@@ -4,7 +4,7 @@ public class StudiKasus202 {
         Scanner sc = new Scanner(System.in);
         
         System.out.print("Nama mahasiswa : ");
-        String nama = sc.nextLine();
+        String namaMahasiswa = sc.nextLine();
         
         System.out.print("Jenis kegiatan (BELMAWA/BAKORMA/MANDIRI/PKM/LAINNYA) : ");
         String jenisKegiatan = sc.nextLine();
