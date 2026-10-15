@@ -3,7 +3,7 @@ public class StudiKasus102 {
     public static void main(String[] args) {
         int hargaMinimalDiskon = 100000;
         int hargaPerCup = 17000;
-        int totalBayar = 0;
+        int totalBayar;
         int jumlahCup;
         int uangBayar;
         int totalHarga; 
