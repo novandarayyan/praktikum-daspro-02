@@ -4,10 +4,10 @@ public class StudiKasus202 {
         Scanner sc = new Scanner(System.in);
         
         System.out.print("Nama mahasiswa : ");
-        String namaMahasiswa = sc.nextLine();
+        String namaMahasiswa = sc.nextLine().trim();
         
         System.out.print("Jenis kegiatan (BELMAWA/BAKORMA/MANDIRI/PKM/LAINNYA) : ");
-        String jenisKegiatan = sc.nextLine();
+        String jenisKegiatan = sc.nextLine().trim();
         
         if (jenisKegiatan.equalsIgnoreCase("BELMAWA") || jenisKegiatan.equalsIgnoreCase("BAKORMA") || jenisKegiatan.equalsIgnoreCase("MANDIRI")) {
             
