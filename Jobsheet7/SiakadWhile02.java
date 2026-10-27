@@ -11,7 +11,7 @@ public class SiakadWhile02 {
         int i = 0;
         while (i < jumlahMahasiswa) {
             System.out.print("Masukkan nilai mahasiswa ke-" + (i + 1) + ": ");
-            double nilai = sc.nextDouble();
+            int nilai = sc.nextInt();
 
             if (nilai < 0 || nilai > 100) {
                 System.out.println("Nilai tidak valid! Masukkan nilai antara 0 - 100.");
