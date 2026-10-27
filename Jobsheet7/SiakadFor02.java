@@ -13,14 +13,14 @@ public class SiakadFor02 {
         int jumlahLulus = 0;
         int jumlahTidakLulus = 0;
 
-        for (int i = 1; i < 10; i++) {
+        for (int i = 0; i < 10; i++) {
             if (nilai[i] > nilaiTertinggi) {
                 nilaiTertinggi = nilai[i];
             }
             if (nilai[i] < nilaiTerendah) {
                 nilaiTerendah = nilai[i];
             }
-            if (nilai[i] >= 57) {
+            if (nilai[i] >= 57.0) {
                 jumlahLulus++;
             } else {
                 jumlahTidakLulus++;
