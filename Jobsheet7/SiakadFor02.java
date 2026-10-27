@@ -8,9 +8,10 @@ public class SiakadFor02 {
             System.out.print("Masukkan nilai kuis mahasiswa ke-" + (i + 1) + ": ");
             nilai[i] = sc.nextDouble();
         }
-
         double nilaiTertinggi = nilai[0];
         double nilaiTerendah = nilai[0];
+        int jumlahLulus = 0;
+        int jumlahTidakLulus = 0;
 
         for (int i = 1; i < 10; i++) {
             if (nilai[i] > nilaiTertinggi) {
@@ -19,10 +20,16 @@ public class SiakadFor02 {
             if (nilai[i] < nilaiTerendah) {
                 nilaiTerendah = nilai[i];
             }
+            if (nilai[i] >= 57) {
+                jumlahLulus++;
+            } else {
+                jumlahTidakLulus++;
+            }
         }
-
         System.out.println("Nilai Tertinggi : " + nilaiTertinggi);
         System.out.println("Nilai Terendah  : " + nilaiTerendah);
+        System.out.println("Jumlah Mahasiswa Lulus     : " + jumlahLulus);
+        System.out.println("Jumlah Mahasiswa Tidak Lulus : " + jumlahTidakLulus);
 
     sc.close();   
     }
