@@ -2,6 +2,7 @@
 //Percobaan 4 (uji wajib, langkah 10) jumlahPenilai	 |3 + (2 mod 2) = 3
 
 import java.util.Scanner;
+
 public class NilaiKelompok02 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
@@ -38,6 +39,8 @@ public class NilaiKelompok02 {
                         + ": nilai rata-rata = " + rataNilai);
                 if (rataNilai > rataTertinggi) {
                     // lengkapi: perbarui rataTertinggi dan kelompokTerbaik
+                    rataTertinggi = rataNilai;
+                    kelompokTerbaik = nomorKelompok;
                 }
 
                 nomorKelompok++;
