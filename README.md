@@ -2,15 +2,15 @@
 Tabel Parameter dengan P = 2:
 | Bagian | Variabel | Rumus (P = Nomor Absen Anda) |
 |---|---|---|
-| Percobaan 1 bil[0], bil[1], bil[2], bil[3] | P ; P+8 ; −(1+(P mod 7)) ; 20+(P mod 15) |  |
-| Percobaan 2 | salah satu nilai yang diinput  | 60 + (P mod 41) |  |
+| Percobaan 1 bil[0], bil[1], bil[2], bil[3] | P ; P+8 ; −(1+(P mod 7)) ; 20+(P mod 15) | 2; 10; -3; 22; |
+| Percobaan 2 salah satu nilai yang diinput  | 60 + (P mod 41) |  |
 | Percobaan 3 salah satu nilai yang diinput  | 30 + (P mod 71) |  |
 | Percobaan 4 Bagian A (key) | 50 + (P mod 50) |  |
 | Percobaan 4 Bagian B | 20 + (P mod 60) |  |
 | Tugas 1 jumlah nilai mahasiswa  | 5 + (P mod 11)  |  |
-| Tugas 1 | salah satu nilai yang diinput  | P mod 100  |  |
-| Tugas 2 | jumlah item dipesan | 2 + (P mod 4) |  |
-| Tugas 2 | indeks menu yang wajib dipesan | P mod 7 |  |
+| Tugas 1 salah satu nilai yang diinput  | P mod 100  |  |
+| Tugas 2 jumlah item dipesan | 2 + (P mod 4) |  |
+| Tugas 2 indeks menu yang wajib dipesan | P mod 7 |  |
 
 # Notes for Jobsheet 8
 Tabel Parameter dengan P = 2: 
