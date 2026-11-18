@@ -1,3 +1,8 @@
+# Notes for Jobsheet 9
+Tabel Parameter dengan P = 2:
+| Bagian | Variabel | Rumus (P = Nomor Absen Anda) |
+|---|---|---|
+
 # Notes for Jobsheet 8
 Tabel Parameter dengan P = 2: 
 | Parameter Pengujian | Ekspresi Matematis | Hasil Perhitungan (P = 2) |
