@@ -1,9 +1,5 @@
-import java.util.Scanner;
-
 public class SearchNilai02 {
     public static void main(String[] args) {
-        Scanner input = new Scanner(System.in);
-
         int[] nilai = { 78, 65, 90, 55, 88, 72 };
         int key = 90;
         boolean ditemukan = false;
@@ -18,7 +14,6 @@ public class SearchNilai02 {
             System.out.println("Nilai " + key + " tidak ditemukan.");
         }
 
-        input.close();
     }
 
 }
