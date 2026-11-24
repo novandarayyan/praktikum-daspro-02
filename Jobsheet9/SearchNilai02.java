@@ -5,7 +5,6 @@ public class SearchNilai02 {
         Scanner input = new Scanner(System.in);
 
         System.out.print("Masukkan banyaknya nilai yang akan diinput: ");
-        System.out.print("Masukkan banyaknya nilai yang akan diinput: ");
         int jumlahElemen = input.nextInt();
 
         int[] nilai = new int[jumlahElemen];
