@@ -1,5 +1,6 @@
 # Notes for Jobsheet 11
-<img width="708" height="107" alt="image" src="https://github.com/user-attachments/assets/cd875310-ecab-4ac3-8401-d4454f843031" />
+<img width="258" height="148" alt="image" src="https://github.com/user-attachments/assets/f0ac113c-7624-4736-8ab5-7224bdf6e1e1" />
+
 
 
 # Notes for Jobsheet 9
