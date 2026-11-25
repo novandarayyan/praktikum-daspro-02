@@ -1,0 +1,406 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "P12Tugas202",
+            "request": "launch",
+            "mainClass": "P12Tugas202",
+            "projectName": "praktikum-daspro-02_e47c4d98"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "ArrayBilangan02",
+            "request": "launch",
+            "mainClass": "ArrayBilangan02",
+            "projectName": "praktikum-daspro-02_e47c4d98"
+        },
+        {
+            "type": "java",
+            "name": "ArrayNilai02",
+            "request": "launch",
+            "mainClass": "ArrayNilai02",
+            "projectName": "praktikum-daspro-02_e47c4d98"
+        },
+        {
+            "type": "java",
+            "name": "ArrayRataNilai02",
+            "request": "launch",
+            "mainClass": "ArrayRataNilai02",
+            "projectName": "praktikum-daspro-02_e47c4d98"
+        },
+        {
+            "type": "java",
+            "name": "Bank02",
+            "request": "launch",
+            "mainClass": "Bank02",
+            "projectName": "praktikum-daspro-02_e47c4d98"
+        },
+        {
+            "type": "java",
+            "name": "ContohOperator02",
+            "request": "launch",
+            "mainClass": "ContohOperator02",
+            "projectName": "praktikum-daspro-02_e47c4d98"
+        },
+        {
+            "type": "java",
+            "name": "ContohOperatorLagi02",
+            "request": "launch",
+            "mainClass": "ContohOperatorLagi02",
+            "projectName": "praktikum-daspro-02_e47c4d98"
+        },
+        {
+            "type": "java",
+            "name": "ContohTipeData02",
+            "request": "launch",
+            "mainClass": "ContohTipeData02",
+            "projectName": "praktikum-daspro-02_e47c4d98"
+        },
+        {
+            "type": "java",
+            "name": "ContohVariabel02",
+            "request": "launch",
+            "mainClass": "ContohVariabel02",
+            "projectName": "praktikum-daspro-02_e47c4d98"
+        },
+        {
+            "type": "java",
+            "name": "GajiKaryawan02",
+            "request": "launch",
+            "mainClass": "GajiKaryawan02",
+            "projectName": "praktikum-daspro-02_e47c4d98"
+        },
+        {
+            "type": "java",
+            "name": "KafeDoWhile02",
+            "request": "launch",
+            "mainClass": "KafeDoWhile02",
+            "projectName": "praktikum-daspro-02_e47c4d98"
+        },
+        {
+            "type": "java",
+            "name": "Kantin02",
+            "request": "launch",
+            "mainClass": "Kantin02",
+            "projectName": "praktikum-daspro-02_e47c4d98"
+        },
+        {
+            "type": "java",
+            "name": "KantinSekolah",
+            "request": "launch",
+            "mainClass": "KantinSekolah",
+            "projectName": "praktikum-daspro-02_e47c4d98"
+        },
+        {
+            "type": "java",
+            "name": "Latihan02",
+            "request": "launch",
+            "mainClass": "Latihan02",
+            "projectName": "praktikum-daspro-02_e47c4d98"
+        },
+        {
+            "type": "java",
+            "name": "MenghitungLuasPersegiPanjang02",
+            "request": "launch",
+            "mainClass": "MenghitungLuasPersegiPanjang02",
+            "projectName": "praktikum-daspro-02_e47c4d98"
+        },
+        {
+            "type": "java",
+            "name": "MenghitungTotalBayar02",
+            "request": "launch",
+            "mainClass": "MenghitungTotalBayar02",
+            "projectName": "praktikum-daspro-02_e47c4d98"
+        },
+        {
+            "type": "java",
+            "name": "MyFirstJava02",
+            "request": "launch",
+            "mainClass": "MyFirstJava02",
+            "projectName": "praktikum-daspro-02_e47c4d98"
+        },
+        {
+            "type": "java",
+            "name": "NestedUjianSkripsi02",
+            "request": "launch",
+            "mainClass": "NestedUjianSkripsi02",
+            "projectName": "praktikum-daspro-02_e47c4d98"
+        },
+        {
+            "type": "java",
+            "name": "NilaiKelompok02",
+            "request": "launch",
+            "mainClass": "NilaiKelompok02",
+            "projectName": "praktikum-daspro-02_e47c4d98"
+        },
+        {
+            "type": "java",
+            "name": "NilaiMhs02",
+            "request": "launch",
+            "mainClass": "NilaiMhs02",
+            "projectName": "praktikum-daspro-02_e47c4d98"
+        },
+        {
+            "type": "java",
+            "name": "PakDanur02",
+            "request": "launch",
+            "mainClass": "PakDanur02",
+            "projectName": "praktikum-daspro-02_e47c4d98"
+        },
+        {
+            "type": "java",
+            "name": "PakTono02",
+            "request": "launch",
+            "mainClass": "PakTono02",
+            "projectName": "praktikum-daspro-02_e47c4d98"
+        },
+        {
+            "type": "java",
+            "name": "PemilihanIF02",
+            "request": "launch",
+            "mainClass": "PemilihanIF02",
+            "projectName": "praktikum-daspro-02_e47c4d98"
+        },
+        {
+            "type": "java",
+            "name": "PemilihanIfElse02",
+            "request": "launch",
+            "mainClass": "PemilihanIfElse02",
+            "projectName": "praktikum-daspro-02_e47c4d98"
+        },
+        {
+            "type": "java",
+            "name": "PemilihanSwitch02",
+            "request": "launch",
+            "mainClass": "PemilihanSwitch02",
+            "projectName": "praktikum-daspro-02_e47c4d98"
+        },
+        {
+            "type": "java",
+            "name": "PenentuAksesLab02",
+            "request": "launch",
+            "mainClass": "PenentuAksesLab02",
+            "projectName": "praktikum-daspro-02_e47c4d98"
+        },
+        {
+            "type": "java",
+            "name": "PenentuAksesWifi02",
+            "request": "launch",
+            "mainClass": "PenentuAksesWifi02",
+            "projectName": "praktikum-daspro-02_e47c4d98"
+        },
+        {
+            "type": "java",
+            "name": "PenghitungCicilan",
+            "request": "launch",
+            "mainClass": "PenghitungCicilan",
+            "projectName": "praktikum-daspro-02_e47c4d98"
+        },
+        {
+            "type": "java",
+            "name": "PenghitungJilid",
+            "request": "launch",
+            "mainClass": "PenghitungJilid",
+            "projectName": "praktikum-daspro-02_e47c4d98"
+        },
+        {
+            "type": "java",
+            "name": "PenjualanTiketBioskop02",
+            "request": "launch",
+            "mainClass": "PenjualanTiketBioskop02",
+            "projectName": "praktikum-daspro-02_e47c4d98"
+        },
+        {
+            "type": "java",
+            "name": "ProgramParkir02",
+            "request": "launch",
+            "mainClass": "ProgramParkir02",
+            "projectName": "praktikum-daspro-02_e47c4d98"
+        },
+        {
+            "type": "java",
+            "name": "Rectangle02",
+            "request": "launch",
+            "mainClass": "Rectangle02",
+            "projectName": "praktikum-daspro-02_e47c4d98"
+        },
+        {
+            "type": "java",
+            "name": "RekapPenjualanProduk02",
+            "request": "launch",
+            "mainClass": "RekapPenjualanProduk02",
+            "projectName": "praktikum-daspro-02_e47c4d98"
+        },
+        {
+            "type": "java",
+            "name": "RobotArm02",
+            "request": "launch",
+            "mainClass": "RobotArm02",
+            "projectName": "praktikum-daspro-02_e47c4d98"
+        },
+        {
+            "type": "java",
+            "name": "SearchNilai02",
+            "request": "launch",
+            "mainClass": "SearchNilai02",
+            "projectName": "praktikum-daspro-02_e47c4d98"
+        },
+        {
+            "type": "java",
+            "name": "Segitiga02",
+            "request": "launch",
+            "mainClass": "Segitiga02",
+            "projectName": "praktikum-daspro-02_e47c4d98"
+        },
+        {
+            "type": "java",
+            "name": "SeleksiAsistenPraktikum02",
+            "request": "launch",
+            "mainClass": "SeleksiAsistenPraktikum02",
+            "projectName": "praktikum-daspro-02_e47c4d98"
+        },
+        {
+            "type": "java",
+            "name": "SepedaKampus02",
+            "request": "launch",
+            "mainClass": "SepedaKampus02",
+            "projectName": "praktikum-daspro-02_e47c4d98"
+        },
+        {
+            "type": "java",
+            "name": "SiakadFor02",
+            "request": "launch",
+            "mainClass": "SiakadFor02",
+            "projectName": "praktikum-daspro-02_e47c4d98"
+        },
+        {
+            "type": "java",
+            "name": "SiakadWhile02",
+            "request": "launch",
+            "mainClass": "SiakadWhile02",
+            "projectName": "praktikum-daspro-02_e47c4d98"
+        },
+        {
+            "type": "java",
+            "name": "SistemDiskonTokoBuku02",
+            "request": "launch",
+            "mainClass": "SistemDiskonTokoBuku02",
+            "projectName": "praktikum-daspro-02_e47c4d98"
+        },
+        {
+            "type": "java",
+            "name": "SortNilai02",
+            "request": "launch",
+            "mainClass": "SortNilai02",
+            "projectName": "praktikum-daspro-02_e47c4d98"
+        },
+        {
+            "type": "java",
+            "name": "SquareArea",
+            "request": "launch",
+            "mainClass": "SquareArea",
+            "projectName": "praktikum-daspro-02_e47c4d98"
+        },
+        {
+            "type": "java",
+            "name": "Star02",
+            "request": "launch",
+            "mainClass": "Star02",
+            "projectName": "praktikum-daspro-02_e47c4d98"
+        },
+        {
+            "type": "java",
+            "name": "StudiKasus102",
+            "request": "launch",
+            "mainClass": "StudiKasus102",
+            "projectName": "praktikum-daspro-02_e47c4d98"
+        },
+        {
+            "type": "java",
+            "name": "StudiKasus202",
+            "request": "launch",
+            "mainClass": "StudiKasus202",
+            "projectName": "praktikum-daspro-02_e47c4d98"
+        },
+        {
+            "type": "java",
+            "name": "StudiKasusAnjing1",
+            "request": "launch",
+            "mainClass": "StudiKasusAnjing1",
+            "projectName": "praktikum-daspro-02_e47c4d98"
+        },
+        {
+            "type": "java",
+            "name": "Triangle02",
+            "request": "launch",
+            "mainClass": "Triangle02",
+            "projectName": "praktikum-daspro-02_e47c4d98"
+        },
+        {
+            "type": "java",
+            "name": "Tugas102",
+            "request": "launch",
+            "mainClass": "Tugas102",
+            "projectName": "praktikum-daspro-02_e47c4d98"
+        },
+        {
+            "type": "java",
+            "name": "Tugas1Pemilihan02",
+            "request": "launch",
+            "mainClass": "Tugas1Pemilihan02",
+            "projectName": "praktikum-daspro-02_e47c4d98"
+        },
+        {
+            "type": "java",
+            "name": "Tugas202",
+            "request": "launch",
+            "mainClass": "Tugas202",
+            "projectName": "praktikum-daspro-02_e47c4d98"
+        },
+        {
+            "type": "java",
+            "name": "Tugas2Pemilihan02",
+            "request": "launch",
+            "mainClass": "Tugas2Pemilihan02",
+            "projectName": "praktikum-daspro-02_e47c4d98"
+        },
+        {
+            "type": "java",
+            "name": "Tugas302",
+            "request": "launch",
+            "mainClass": "Tugas302",
+            "projectName": "praktikum-daspro-02_e47c4d98"
+        },
+        {
+            "type": "java",
+            "name": "TugasAntrean02",
+            "request": "launch",
+            "mainClass": "TugasAntrean02",
+            "projectName": "praktikum-daspro-02_e47c4d98"
+        },
+        {
+            "type": "java",
+            "name": "TugasParkir02",
+            "request": "launch",
+            "mainClass": "TugasParkir02",
+            "projectName": "praktikum-daspro-02_e47c4d98"
+        },
+        {
+            "type": "java",
+            "name": "Whatevs",
+            "request": "launch",
+            "mainClass": "Whatevs",
+            "projectName": "praktikum-daspro-02_e47c4d98"
+        }
+    ]
+}

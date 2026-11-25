@@ -17,7 +17,6 @@ public class SiakadWhile02 {
                 System.out.println("Nilai tidak valid! Masukkan nilai antara 0 - 100.");
                 continue;
             }
-nilai
             String nilaiHuruf;
             if (nilai > 80 && nilai <= 100) {
                 nilaiHuruf = "A";

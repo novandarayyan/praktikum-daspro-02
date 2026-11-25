@@ -8,7 +8,7 @@ public static void main(String[] args) {
     System.out.print("Masukkan Nama Mahasiswa: ");
     nama = sc.next();
 
-    do {
+    do (
         System.out.print("Masukkan Nilai Kuis: ");
         nilaiKuis = sc.nextInt();
         System.out.print("Masukkan Nilai UTS: ");
@@ -18,8 +18,7 @@ public static void main(String[] args) {
         do {System.out.print("Masukkan Nilai Tugas: ");
         nilaiTugas = sc.nextInt();
         } while (nilaiTugas < 2);
-
-    };
+    );
 
 
 
