@@ -1,3 +1,7 @@
+# Notes for Jobsheet 11
+<img width="708" height="107" alt="image" src="https://github.com/user-attachments/assets/cd875310-ecab-4ac3-8401-d4454f843031" />
+
+
 # Notes for Jobsheet 9
 Tabel Parameter dengan P = 2:
 | Bagian | Variabel | Rumus (P = Nomor Absen Anda) |
