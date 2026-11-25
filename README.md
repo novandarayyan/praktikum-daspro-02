@@ -1,5 +1,8 @@
 # Notes for Jobsheet 11
 <img width="258" height="148" alt="image" src="https://github.com/user-attachments/assets/f0ac113c-7624-4736-8ab5-7224bdf6e1e1" />
+\n"bro ada jobsheet baru"
+\n<img width="498" height="498" alt="fahhhh-meme" src="https://github.com/user-attachments/assets/db77b3f6-7bc3-4bb2-8850-6a83867c27a2" />
+
 
 
 
